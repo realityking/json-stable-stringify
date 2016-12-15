@@ -1,5 +1,5 @@
 {
-  "name": "@samn/json-stable-stringify",
+  "name": "json-stable-stringify-without-jsonify",
   "version": "1.0.1",
   "description": "deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results, with no public domain dependencies",
   "main": "index.js",
